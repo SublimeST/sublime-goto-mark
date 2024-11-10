@@ -1,0 +1,11 @@
+[
+    {
+        "keys": ["alt+m"],
+        "command": "goto_mark",
+        "context": [
+          {
+            "key": "goto_mark.enabled_default_keymap"
+          }
+        ]
+    }
+]

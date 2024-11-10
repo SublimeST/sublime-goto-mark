@@ -1,6 +1,6 @@
 [
   {
-        "caption": "Goto Mark",
-        "command": "go_to_mark"
-    }
+    "caption": "Goto Mark",
+    "command": "goto_mark"
+  }
 ]
